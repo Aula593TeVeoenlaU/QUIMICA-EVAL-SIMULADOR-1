@@ -200,7 +200,7 @@ const questions = [
 // Variables globales
 let currentQuestionIndex = 0;
 let timerInterval;
-const totalTime = 20 * 60; // 20 minutos
+const totalTime = 24 * 60; // 24 minutos
 let timeRemaining = totalTime;
 let userAnswers = {};
 let flaggedQuestions = new Set();
